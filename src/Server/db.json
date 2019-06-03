@@ -1,0 +1,59 @@
+{
+  "autor": [
+    {
+      "nome": "BATMAN",
+      "email": "BATMAN@GMAIL.COM",
+      "senha": "123456",
+      "id": "jWqQK33"
+    },
+    {
+      "nome": "8984584",
+      "email": "BATMAN@GMAIL.COM",
+      "senha": "fdfsdf",
+      "id": "4nTQkkH"
+    },
+    {
+      "nome": "OMIRANHA",
+      "email": "OMIRANHA@OMIRANHA.COM",
+      "senha": "OMIRANHA",
+      "id": "YfbDFq2"
+    },
+    {
+      "nome": "[´ghkl",
+      "email": "BATMAN@GMAIL.COM",
+      "senha": "lgkl",
+      "id": "F2YgHgK"
+    },
+    {
+      "nome": "BATMAN",
+      "email": "dfsfds@gfgafg.com",
+      "senha": "fadsfadf",
+      "id": "cteXytP"
+    }
+  ],
+  "livro": [
+    {
+      "titulo": "algum",
+      "preco": "300",
+      "id": 1
+    },
+    {
+      "titulo": "casmurro",
+      "preco": "300",
+      "autorId": "4nTQkkH",
+      "id": 3
+    },
+    {
+      "titulo": "sapiens",
+      "preco": "150",
+      "autorId": "jWqQK33",
+      "id": 4
+    },
+    {
+      "titulo": "Noah",
+      "preco": "200",
+      "autorId": "jWqQK33",
+      "id": 5
+    }
+  ]
+}

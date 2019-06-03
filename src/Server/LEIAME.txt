@@ -1,0 +1,1 @@
+Comando para iniciar o servidor json: json-server --watch db.json

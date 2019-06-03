@@ -1,0 +1,18 @@
+.tabela-modificada {
+    background-color: #ff000024 !important;
+}
+
+.table-modificada-livro {
+    position: relative;
+    margin-top: 4% !important;
+    right: 50%;
+    left: 50%;
+}
+
+.table-modificada-autor {
+    position: relative;
+    margin-top: 2% !important;
+    right: 55%;
+    left: 45%;
+}
+
